@@ -3,6 +3,7 @@
 using namespace std;
 const int N = 3001;
 int val[N];
+// own
 
 int bin_reverse(int x)
 {
