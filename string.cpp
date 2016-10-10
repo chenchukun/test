@@ -14,7 +14,7 @@ int main()
 	}
 	else
 	{
-		cout << "no find.." << endl;
+		cout << "no find." << endl;
 	}
 	return 0;
 }
