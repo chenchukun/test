@@ -2,3 +2,4 @@ README
 dev branch revise test_master
 --no-ff
 git stash
+git pull
