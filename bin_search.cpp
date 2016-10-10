@@ -2,7 +2,6 @@
 #include <vector>
 using namespace std;
 
-// class
 class LeftMostAppearance {
 public:
     int findPos(vector<int> arr, int n, int num) {
