@@ -1,14 +1,13 @@
 #include <iostream>
 #include <string>
 using namespace std;
-// add
 
 int main()
 {
-	// init
 	string s;
-	cin >> s;  // input
+	cin >> s;
 	int num = s.find("abcdefg", 328088);
+	// if
 	if(num != string::npos)
 	{
 		cout << num << endl;
