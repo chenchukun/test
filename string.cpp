@@ -7,7 +7,6 @@ int main()
 	string s;
 	cin >> s;
 	int num = s.find("abcdefg", 328088);
-	// if
 	if(num != string::npos)
 	{
 		cout << num << endl;
