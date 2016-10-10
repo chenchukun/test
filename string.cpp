@@ -6,6 +6,7 @@ int main()
 {
 	string s;
 	cin >> s;
+	// test
 	int num = s.find("abcdefg", 328088);
 	if(num != string::npos)
 	{
@@ -13,7 +14,7 @@ int main()
 	}
 	else
 	{
-		cout << "no find" << endl;
+		cout << "no find.." << endl;
 	}
 	return 0;
 }
